@@ -3,7 +3,9 @@ Es werden viele Informationen via Webservice angeboten
 
 Folgende Informationen werden dargestellt:
 • Sinnvoller Window-Titel (GKÜ)
+
 • Eingabe eines Betrages via DoubleSpinner (GKÜ)
+
 • Eingabe der Ausgangswährung via LineEdit (GKÜ)
 • Eingabe der Zielwährungen via LineEdit (GKÜ)
 • GUI zurücksetzen: Alle Eingabe-Widgets löschen, bzw. Betrag auf
